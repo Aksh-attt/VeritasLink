@@ -40,7 +40,7 @@ VERA reacts in real time to the live status of the investigation workspace.
 
 ---
 
-##  System Architecture
+##  System Architecture 
 
 ```mermaid
 flowchart TD
