@@ -6,7 +6,7 @@
 
 ---
 
-## 🎨 Visual Identity & Original AI Mascot — VERA
+##  Visual Identity & Original AI Mascot — VERA
 
 VeritasLink pairs an unconventional editorial and comic-inspired visual identity with serious cybersecurity forensic capabilities.
 
@@ -29,7 +29,7 @@ VERA reacts in real time to the live status of the investigation workspace.
 
 ---
 
-## ⚡ The Core Differentiator
+##  The Core Differentiator
 
 | Traditional URL Scanners | VeritasLink Agentic Investigation |
 | :--- | :--- |
@@ -40,7 +40,7 @@ VERA reacts in real time to the live status of the investigation workspace.
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```mermaid
 flowchart TD
@@ -85,7 +85,7 @@ VeritasLink includes 3 built-in fictional phishing scenarios hosted locally:
 
 ---
 
-## 🚀 Windows Quick Start
+##  Windows Quick Start
 
 ### Prerequisites
 - Python 3.10+ (Python 3.12 recommended)
@@ -121,7 +121,7 @@ Open your browser at: `http://localhost:3000`
 
 ---
 
-## 🔑 Environment Configuration (.env)
+##  Environment Configuration (.env)
 
 Copy `.env.example` to `.env` in the root or `backend/` directory:
 
@@ -144,7 +144,7 @@ PORT=8000
 
 ---
 
-## 🔒 Security Principles
+##  Security Principles
 
 - **Zero-Submission Guarantee:** The remote browser agent strictly never auto-fills or submits credentials, passwords, or payments on investigated websites.
 - **Isolated Cloud Browser:** Target URLs execute exclusively in remote Chromium sandboxes; malicious JavaScript or exploit kits never execute on the user's device.
@@ -153,6 +153,6 @@ PORT=8000
 
 ---
 
-## 📄 License
+##  License
 Built for the **TinyFish Hackathon**. MIT License.
 
